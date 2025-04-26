@@ -28,5 +28,6 @@ pip install -r requirements.txt
 Скопируйте выданный токен
 
 4. Запустите бота
+botcode.py
 
 
