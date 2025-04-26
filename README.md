@@ -16,9 +16,17 @@
 
 ```bash
 pip install -r requirements.txt
+```
+2. Скачай [датасет](https://drive.google.com/file/d/1bDTiUAeIlB_jSLR4hENAT6QvYC7w0zFh/view?usp=drive_link).
 
-2. Скачай датасет
-https://drive.google.com/file/d/1bDTiUAeIlB_jSLR4hENAT6QvYC7w0zFh/view?usp=drive_link
+3. Получи API
 
-3. Получи API 
-@BotFather
+Откройте Telegram, найдите бота @BotFather
+
+Создайте нового бота командой /newbot
+
+Скопируйте выданный токен
+
+4. Запустите бота
+
+
