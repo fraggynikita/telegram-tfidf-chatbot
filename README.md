@@ -16,3 +16,9 @@
 
 ```bash
 pip install -r requirements.txt
+
+2. Скачай датасет
+https://drive.google.com/file/d/1bDTiUAeIlB_jSLR4hENAT6QvYC7w0zFh/view?usp=drive_link
+
+3. Получи API 
+@BotFather
