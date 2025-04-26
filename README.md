@@ -1,4 +1,4 @@
-# TELEGRAM TF-IDF ЧАТ-БОТ на jupt
+# TELEGRAM TF-IDF ЧАТ-БОТ
 
 Простой бот (не умный) построен на базе TF-IDF + cosine similarity, ищет лучший ответ из кастомного датасета. 
 
