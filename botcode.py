@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-data = pd.read_json('path')  
+data = pd.read_json('../dataset.json.gz')  
 inputs = data['input']
 outputs = data['output']
 
